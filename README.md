@@ -2,14 +2,14 @@
 Compendium of Juggling Projects. 
 
 <p align="center"> 
-    <img src="./README_images/little_beetle.gif">
+    <img src="./README_images/open_pose.gif">
 </p>
 
 
 [//]: # (-------------------Reference List------------------------------)
 [//]: # (Image Directory Paths)
 [image1]: ./README_images/off_lights.gif
-[image2]: ./README_images/motion_sound.gif
+[image2]: ./README_images/motion_sound.jpg
 [image3]: ./README_images/disney_juggling.gif
 [image4]: ./README_images/jmi.gif
 [image5]: ./README_images/caic_team.jpg
@@ -27,7 +27,7 @@ Click for Code
 
 Turn OFF The Lights | Transform Motion into Sound Effects
 :---:|:---:
-<a href=https://github.com/laygond/Turn-OFF-The-Lights> <img src="./README_images/off_lights.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/Transform-Motion-into-Sound-Effects> <img src="./README_images/motion_sound.gif" width="480" height="270"> </a> 
+<a href=https://github.com/laygond/Turn-OFF-The-Lights> <img src="./README_images/off_lights.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/Transform-Motion-into-Sound-Effects> <img src="./README_images/motion_sound.jpg" width="480" height="270"> </a> 
 
 
 Disney Juggling | Juggling Machine Interface
